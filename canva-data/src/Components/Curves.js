@@ -25,7 +25,7 @@ const Curves = () => {
 
   return (
     <div>
-      <h1>Number of New Customers</h1>
+      <h1>Number of Crashes V Fatality Index</h1>
       <div>
         <label>
           Select Curve:
